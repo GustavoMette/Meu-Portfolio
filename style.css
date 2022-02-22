@@ -3,15 +3,29 @@
 }
 
 body {
-    background-color: rgb(124, 170, 255);
+    background-color: rgb(142, 198, 243);
+
 }
 
 p {
-    font-size: 18px;
+    font-size: 19px;
 }
 
-.Titulo {
+.Eliti {
+    position: absolute;
+    bottom: 545px;
+    text-decoration: underline;
+    font-size: 23px;
+}
+
+
+.Eliti:hover {
+  color: rgb(0, 0, 0);
+}
+
+.Titulo {   
     text-align: center;
+    text-decoration: underline  ;
 }
 
 .Redes {
@@ -20,8 +34,14 @@ p {
 
 img {
     position: relative;
-    left: 735px;
-    bottom: 285px;
+    left: 775px;
+    bottom: 330px;
     border-radius: 100px;
-    border:solid 3px blue
+    border:solid 3px rgb(38, 0, 255)
+}
+
+img:hover {
+    border-radius: 0px ;
+    transition-duration: 0.25s;
+    border: solid 3px rgb(106, 0, 177);
 }
