@@ -1,10 +1,27 @@
-
-
-#Oi {
-    color: black;
-    text-align: center;
-
+* {
+    font-family: Arial, Helvetica, sans-serif;
 }
-.Teste {
-    color: blueviolet;
+
+body {
+    background-color: rgb(124, 170, 255);
+}
+
+p {
+    font-size: 18px;
+}
+
+.Titulo {
+    text-align: center;
+}
+
+.Redes {
+    font-size: 18px;
+}
+
+img {
+    position: relative;
+    left: 735px;
+    bottom: 285px;
+    border-radius: 100px;
+    border:solid 3px blue
 }
