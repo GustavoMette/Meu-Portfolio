@@ -34,14 +34,14 @@ p {
 
 img {
     position: relative;
-    left: 775px;
-    bottom: 330px;
+    left: 800px;
+    bottom: 350px;
     border-radius: 100px;
     border:solid 3px rgb(38, 0, 255)
 }
 
 img:hover {
     border-radius: 0px ;
-    transition-duration: 0.25s;
+    transition-duration: 0.35s;
     border: solid 3px rgb(106, 0, 177);
 }
