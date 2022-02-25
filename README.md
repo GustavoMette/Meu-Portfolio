@@ -1,3 +1,3 @@
-Acesse o meu portfólio!
+Veja o meu portfólio!
 
-https://gustavomette.netlify.app/
+https://portfoliodogustavo.netlify.app/
